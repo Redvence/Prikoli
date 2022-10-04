@@ -1,0 +1,10 @@
+{
+  "name": "Prikol",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mashcraft",
+  "license": "false",
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
+}
